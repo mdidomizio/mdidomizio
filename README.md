@@ -10,16 +10,8 @@ I develop Android Apps with Kotlin.
 
 ### 🚀 Featured App — Star Wars Garage
 
-An Android app that displays **Star Wars starships**, fetching data from two public APIs:
-
-- [Star Wars Databank](https://starwars-databank.vercel.app/)
-- [SWAPI (Star Wars API)](https://swapi.info/)
-
+An [Android app](https://github.com/mdidomizio/StarWarsGarage) that displays **Star Wars starships**, fetching data from two public APIs.
 Built with a modern, clean UI using **Jetpack Compose**, this project is part of my **Android/Kotlin portfolio** and focuses on best practices in architecture, performance, and modern Android development.
-
----
-
-### 📸 Screenshots
 
 <table>
   <tr>
