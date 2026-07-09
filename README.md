@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Miriam!
 
-I develop Android Apps with Kotlin.
+Android Engineer with 3 years of production experience at Zalando. Building with Kotlin, Jetpack Compose, and MVVM.
 
-📱 Currently at **Zalando SE**  
 📫 How to reach me:
 [✉️ Email](mailto:miriam.didomizio@gmail.com) · [𝕏 Twitter](https://x.com/MiriamDiDomizio) · [💼 LinkedIn](https://www.linkedin.com/in/miriam-di-domizio-25b8ab12b)
 
