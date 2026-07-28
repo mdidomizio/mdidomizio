@@ -1,9 +1,20 @@
+markdown
 ## Hi there 👋 I'm Miriam!
 
-Android Engineer with 3 years of production experience at Zalando. Building with Kotlin, Jetpack Compose, and MVVM.
+I develop Android Apps with Kotlin.
 
-📫 How to reach me:
-[✉️ Email](mailto:miriam.didomizio@gmail.com) · [𝕏 Twitter](https://x.com/MiriamDiDomizio) · [💼 LinkedIn](https://www.linkedin.com/in/miriam-di-domizio-25b8ab12b)
+📱 Android Engineer, open to new opportunities
+📫 How to reach me: [✉️ Email](mailto:miriam.didomizio@gmail.com) · [𝕏 Twitter](https://x.com/MiriamDiDomizio) · [💼 LinkedIn](https://www.linkedin.com/in/miriam-di-domizio-25b8ab12b)
+
+---
+
+### 🚀 Featured App — ShuttlesLaunch
+
+Track upcoming rocket launches with live countdowns and mission details. Available now on [Google Play](https://play.google.com/store/apps/details?id=com.miriamdidomizio.shuttleslaunch).
+
+Built with **Kotlin**, **Jetpack Compose**, **MVVM**, and **Hilt**, pulling live data from the Launch Library 2 API. Free, no ads, no account required.
+
+<img src="screenshots/shuttlesLaunch.png" width="900">
 
 ---
 
