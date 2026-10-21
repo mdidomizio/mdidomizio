@@ -18,6 +18,22 @@ Built with **Kotlin**, **Jetpack Compose**, **MVVM**, and **Hilt**, pulling live
 
 ---
 
+### 💱 In Progress — MoneyApp
+
+A [currency converter](https://github.com/mdidomizio/MoneyApp) for Android, built to practise the parts of fintech that are easy to get wrong: exact money arithmetic, per-currency rounding, locale formatting and offline support.
+
+Built with **Kotlin**, **Jetpack Compose**, **MVI**, **Hilt**, **Ktor** and **Room**, using daily reference rates from the Frankfurter API. Every amount is a `BigDecimal`, the ViewModel is unit tested with fakes, and the app keeps converting offline by deriving cross rates from cached EUR rates.
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/moneyapp_converter.png" width="200"/><br/><sub>💶 Converter</sub></td>
+    <td align="center"><img src="screenshots/moneyapp_picker.png" width="200"/><br/><sub>🔍 Currency picker</sub></td>
+    <td align="center"><img src="screenshots/moneyapp_offline.png" width="200"/><br/><sub>📴 Offline</sub></td>
+  </tr>
+</table>
+
+---
+
 ### 🚀 Featured App — Star Wars Garage
 
 An [Android app](https://github.com/mdidomizio/StarWarsGarage) that displays **Star Wars starships**, fetching data from two public APIs.
