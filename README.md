@@ -14,7 +14,7 @@ Track upcoming rocket launches with live countdowns and mission details. Availab
 
 Built with **Kotlin**, **Jetpack Compose**, **MVVM**, and **Hilt**, pulling live data from the Launch Library 2 API. Free, no ads, no account required.
 
-<img src="screenshots/shuttlesLaunch.png" width="900">
+<img src="screenshots/shuttlesLaunchV2.1.png" width="900">
 
 ---
 
